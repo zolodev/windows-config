@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-01-12T02:39:34.363-00:00",
+	"CreationDate" : "2024-01-12T03:12:47.123-00:00",
 	"Sources" : 
 	[
 		{
@@ -59,6 +59,9 @@
 				},
 				{
 					"PackageIdentifier" : "Valve.Steam"
+				},
+				{
+					"PackageIdentifier" : "GnuWin32.Tree"
 				},
 				{
 					"PackageIdentifier" : "Waterfox.Waterfox"
