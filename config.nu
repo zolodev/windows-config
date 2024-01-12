@@ -779,6 +779,7 @@ source .oh-my-posh.nu
 alias core-ls = ls
 alias core-ll = ls -l
 
+
 def old-ll [path] {
   core-ll $path | sort-by type name -i
 }
@@ -804,3 +805,9 @@ def ll [path?] {
     old-ll $path
   }
 }
+
+# Custom aliases
+alias vim = nvim
+alias grep = rg
+alias cat = bat
+alias more = less
