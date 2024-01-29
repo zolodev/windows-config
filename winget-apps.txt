@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-01-12T03:12:47.123-00:00",
+	"CreationDate" : "2024-01-29T17:11:21.972-00:00",
 	"Sources" : 
 	[
 		{
@@ -8,6 +8,9 @@
 			[
 				{
 					"PackageIdentifier" : "Bitwarden.Bitwarden"
+				},
+				{
+					"PackageIdentifier" : "MarkText.MarkText"
 				},
 				{
 					"PackageIdentifier" : "BurntSushi.ripgrep.MSVC"
@@ -23,6 +26,9 @@
 				},
 				{
 					"PackageIdentifier" : "LibreWolf.LibreWolf"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Teams"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge"
@@ -61,6 +67,12 @@
 					"PackageIdentifier" : "Valve.Steam"
 				},
 				{
+					"PackageIdentifier" : "eTeks.SweetHome3D"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Teams.Classic"
+				},
+				{
 					"PackageIdentifier" : "GnuWin32.Tree"
 				},
 				{
@@ -82,10 +94,10 @@
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
 				},
 				{
-					"PackageIdentifier" : "VSCodium.VSCodium"
+					"PackageIdentifier" : "Neovim.Neovim"
 				},
 				{
-					"PackageIdentifier" : "Neovim.Neovim"
+					"PackageIdentifier" : "VSCodium.VSCodium"
 				},
 				{
 					"PackageIdentifier" : "Nushell.Nushell"
