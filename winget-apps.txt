@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-01-29T17:11:21.972-00:00",
+	"CreationDate" : "2024-01-29T18:54:39.524-00:00",
 	"Sources" : 
 	[
 		{
@@ -55,6 +55,9 @@
 					"PackageIdentifier" : "Microsoft.WindowsTerminal"
 				},
 				{
+					"PackageIdentifier" : "Insecure.Nmap"
+				},
+				{
 					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh"
 				},
 				{
@@ -91,6 +94,9 @@
 					"PackageIdentifier" : "zig.zig"
 				},
 				{
+					"PackageIdentifier" : "RealVNC.VNCViewer"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
 				},
 				{
@@ -101,6 +107,12 @@
 				},
 				{
 					"PackageIdentifier" : "Nushell.Nushell"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
 				}
 			],
 			"SourceDetails" : 
