@@ -1,6 +1,6 @@
 {
 	"$schema": "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate": "2024-06-01T13:32:55.510-00:00",
+	"CreationDate": "2024-06-01T14:39:12.820-00:00",
 	"Sources": [
 		{
 			"Packages": [
@@ -11,19 +11,13 @@
 					"PackageIdentifier": "CoreyButler.NVMforWindows"
 				},
 				{
-					"PackageIdentifier": "MarkText.MarkText"
-				},
-				{
 					"PackageIdentifier": "7zip.7zip"
 				},
 				{
+					"PackageIdentifier": "MarkText.MarkText"
+				},
+				{
 					"PackageIdentifier": "Microsoft.VisualStudio.2022.Community"
-				},
-				{
-					"PackageIdentifier": "Foxit.FoxitReader"
-				},
-				{
-					"PackageIdentifier": "BurntSushi.ripgrep.MSVC"
 				},
 				{
 					"PackageIdentifier": "Guru3D.Afterburner"
@@ -35,10 +29,7 @@
 					"PackageIdentifier": "Brave.Brave"
 				},
 				{
-					"PackageIdentifier": "Insecure.Nmap"
-				},
-				{
-					"PackageIdentifier": "Safing.Portmaster"
+					"PackageIdentifier": "BurntSushi.ripgrep.MSVC"
 				},
 				{
 					"PackageIdentifier": "Canonical.Ubuntu.2204"
@@ -47,19 +38,22 @@
 					"PackageIdentifier": "Discord.Discord"
 				},
 				{
+					"PackageIdentifier": "Foxit.FoxitReader"
+				},
+				{
 					"PackageIdentifier": "GitHub.GitHubDesktop"
 				},
 				{
 					"PackageIdentifier": "Git.Git"
 				},
 				{
+					"PackageIdentifier": "LMStudio.LMStudio"
+				},
+				{
 					"PackageIdentifier": "LibreWolf.LibreWolf"
 				},
 				{
 					"PackageIdentifier": "Microsoft.Teams"
-				},
-				{
-					"PackageIdentifier": "LMStudio.LMStudio"
 				},
 				{
 					"PackageIdentifier": "Microsoft.Edge"
@@ -86,13 +80,16 @@
 					"PackageIdentifier": "Microsoft.WindowsTerminal"
 				},
 				{
+					"PackageIdentifier": "Anaconda.Miniconda3"
+				},
+				{
 					"PackageIdentifier": "Mozilla.Firefox"
 				},
 				{
-					"PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
+					"PackageIdentifier": "Insecure.Nmap"
 				},
 				{
-					"PackageIdentifier": "Microsoft.OneDrive"
+					"PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
 				},
 				{
 					"PackageIdentifier": "Rustlang.Rustup"
@@ -104,82 +101,10 @@
 					"PackageIdentifier": "Valve.Steam"
 				},
 				{
-					"PackageIdentifier": "TheBrowserCompany.Arc"
+					"PackageIdentifier": "eTeks.SweetHome3D"
 				},
 				{
-					"PackageIdentifier": "Nushell.Nushell"
-				},
-				{
-					"PackageIdentifier": "Microsoft.VCRedist.2010.x64"
-				},
-				{
-					"PackageIdentifier": "Microsoft.DotNet.SDK.8"
-				},
-				{
-					"PackageIdentifier": "VSCodium.VSCodium"
-				},
-				{
-					"PackageIdentifier": "WireGuard.WireGuard"
-				},
-				{
-					"PackageIdentifier": "Microsoft.DotNet.Runtime.6"
-				},
-				{
-					"PackageIdentifier": "Microsoft.VCRedist.2012.x86"
-				},
-				{
-					"PackageIdentifier": "Microsoft.VCRedist.2015+.x86"
-				},
-				{
-					"PackageIdentifier": "Logitech.GHUB"
-				},
-				{
-					"PackageIdentifier": "Microsoft.CLRTypesSQLServer.2019"
-				},
-				{
-					"PackageIdentifier": "Microsoft.VCRedist.2008.x64"
-				},
-				{
-					"PackageIdentifier": "OpenJS.NodeJS.LTS"
-				},
-				{
-					"PackageIdentifier": "Microsoft.msmpi"
-				},
-				{
-					"PackageIdentifier": "Python.Launcher"
-				},
-				{
-					"PackageIdentifier": "RealVNC.VNCViewer"
-				},
-				{
-					"PackageIdentifier": "Microsoft.VCRedist.2008.x86"
-				},
-				{
-					"PackageIdentifier": "EpicGames.EpicGamesLauncher"
-				},
-				{
-					"PackageIdentifier": "Nvidia.GeForceExperience"
-				},
-				{
-					"PackageIdentifier": "Nvidia.PhysX"
-				},
-				{
-					"PackageIdentifier": "Nvidia.Broadcast"
-				},
-				{
-					"PackageIdentifier": "Microsoft.VCRedist.2010.x86"
-				},
-				{
-					"PackageIdentifier": "Python.Python.3.10"
-				},
-				{
-					"PackageIdentifier": "Microsoft.VCRedist.2015+.x64"
-				},
-				{
-					"PackageIdentifier": "Microsoft.Teams"
-				},
-				{
-					"PackageIdentifier": "Microsoft.WindowsSDK.10.0.22000"
+					"PackageIdentifier": "Microsoft.Teams.Classic"
 				},
 				{
 					"PackageIdentifier": "GnuWin32.Tree"
@@ -200,40 +125,94 @@
 					"PackageIdentifier": "zig.zig"
 				},
 				{
-					"PackageIdentifier": "RealVNC.VNCViewer"
+					"PackageIdentifier": "Nushell.Nushell"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VCRedist.2015+.x64"
+					"PackageIdentifier": "Microsoft.VCRedist.2010.x64"
 				},
 				{
-					"PackageIdentifier": "Neovim.Neovim"
+					"PackageIdentifier": "Microsoft.DotNet.SDK.8"
 				},
 				{
 					"PackageIdentifier": "VSCodium.VSCodium"
 				},
 				{
+					"PackageIdentifier": "RealVNC.VNCViewer"
+				},
+				{
+					"PackageIdentifier": "Microsoft.DotNet.Runtime.6"
+				},
+				{
+					"PackageIdentifier": "Python.Launcher"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VCRedist.2012.x86"
+				},
+				{
+					"PackageIdentifier": "OpenJS.NodeJS.LTS"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VCRedist.2015+.x86"
+				},
+				{
+					"PackageIdentifier": "Logitech.GHUB"
+				},
+				{
+					"PackageIdentifier": "Microsoft.CLRTypesSQLServer.2019"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VCRedist.2008.x64"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VCRedist.2015+.x64"
+				},
+				{
+					"PackageIdentifier": "Microsoft.msmpi"
+				},
+				{
+					"PackageIdentifier": "Neovim.Neovim"
+				},
+				{
+					"PackageIdentifier": "Python.Launcher"
+				},
+				{
 					"PackageIdentifier": "Nushell.Nushell"
-				},
-				{
-					"PackageIdentifier": "Anaconda.Miniconda3"
-				},
-				{
-					"PackageIdentifier": "Safing.Portmaster"
-				},
-				{
-					"PackageIdentifier": "Microsoft.VCRedist.2012.x64"
-				},
-				{
-					"PackageIdentifier": "eTeks.SweetHome3D"
-				},
-				{
-					"PackageIdentifier": "Microsoft.Teams.Classic"
 				},
 				{
 					"PackageIdentifier": "Microsoft.VCRedist.2008.x86"
 				},
 				{
 					"PackageIdentifier": "Microsoft.VCRedist.2013.x86"
+				},
+				{
+					"PackageIdentifier": "EpicGames.EpicGamesLauncher"
+				},
+				{
+					"PackageIdentifier": "Nvidia.GeForceExperience"
+				},
+				{
+					"PackageIdentifier": "Nvidia.PhysX"
+				},
+				{
+					"PackageIdentifier": "Nvidia.Broadcast"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VCRedist.2010.x86"
+				},
+				{
+					"PackageIdentifier": "Python.Python.3.10"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VCRedist.2012.x64"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VCRedist.2013.x86"
+				},
+				{
+					"PackageIdentifier": "Microsoft.WindowsSDK.10.0.22000"
+				},
+				{
+					"PackageIdentifier": "Microsoft.DotNet.SDK.8"
 				}
 			],
 			"SourceDetails": {
