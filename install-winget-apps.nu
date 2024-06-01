@@ -1,4 +1,4 @@
 #!/usr/bin/env nu
 
-winget import -i ./winget-apps.txt
-winget upgrade --all
+winget import winget-apps.txt
+winget upgrade --all --include-unknown
