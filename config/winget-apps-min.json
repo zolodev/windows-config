@@ -1,0 +1,111 @@
+{
+	"$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate": "2024-06-02T13:40:49.299-00:00",
+	"Sources": [
+		{
+			"Packages": [
+				{
+					"PackageIdentifier": "Bitwarden.Bitwarden"
+				},
+				{
+					"PackageIdentifier": "CoreyButler.NVMforWindows"
+				},
+				{
+					"PackageIdentifier": "7zip.7zip"
+				},
+				{
+					"PackageIdentifier": "MarkText.MarkText"
+				},
+				{
+					"PackageIdentifier": "Brave.Brave"
+				},
+				{
+					"PackageIdentifier": "BurntSushi.ripgrep.MSVC"
+				},
+				{
+					"PackageIdentifier": "Discord.Discord"
+				},
+				{
+					"PackageIdentifier": "Git.Git"
+				},
+				{
+					"PackageIdentifier": "Microsoft.Teams"
+				},
+				{
+					"PackageIdentifier": "Microsoft.WindowsTerminal"
+				},
+				{
+					"PackageIdentifier": "Mozilla.Firefox"
+				},
+				{
+					"PackageIdentifier": "Insecure.Nmap"
+				},
+				{
+					"PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
+				},
+				{
+					"PackageIdentifier": "Oven-sh.Bun"
+				},
+				{
+					"PackageIdentifier": "Rustlang.Rustup"
+				},
+				{
+					"PackageIdentifier": "Spotify.Spotify"
+				},
+				{
+					"PackageIdentifier": "GnuWin32.Tree"
+				},
+				{
+					"PackageIdentifier": "Waterfox.Waterfox"
+				},
+				{
+					"PackageIdentifier": "jftuga.less"
+				},
+				{
+					"PackageIdentifier": "jqlang.jq"
+				},
+				{
+					"PackageIdentifier": "sharkdp.bat"
+				},
+				{
+					"PackageIdentifier": "Nushell.Nushell"
+				},
+				{
+					"PackageIdentifier": "VSCodium.VSCodium"
+				},
+				{
+					"PackageIdentifier": "Python.Launcher"
+				},
+				{
+					"PackageIdentifier": "OpenJS.NodeJS.LTS"
+				},
+				{
+					"PackageIdentifier": "Python.Python.3.10"
+				},
+				{
+					"PackageIdentifier": "Python.Python.3.12"
+				}
+			],
+			"SourceDetails": {
+				"Argument": "https://cdn.winget.microsoft.com/cache",
+				"Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name": "winget",
+				"Type": "Microsoft.PreIndexed.Package"
+			}
+		},
+		{
+			"Packages": [
+				{
+					"PackageIdentifier": "9MW6QQ8J0V6T"
+				}
+			],
+			"SourceDetails": {
+				"Argument": "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+				"Identifier": "StoreEdgeFD",
+				"Name": "msstore",
+				"Type": "Microsoft.Rest"
+			}
+		}
+	],
+	"WinGetVersion": "1.7.11261"
+}

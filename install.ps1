@@ -25,5 +25,8 @@ nu ./config/install-omp.nu
 
 # Installing WindowsTerminal configuration
 Write-Output "Installing WindowsTerminal configuration!"
-nu ./config/WindowsTerminal.nu install 
- 
+nu ./config/WindowsTerminal.nu install
+
+# Installing ALL winget apps
+Write-Output "Installing ALL Winget Apps!"
+nu ./config/install-winget-apps.nu install-full

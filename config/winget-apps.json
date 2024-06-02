@@ -50,9 +50,6 @@
 					"PackageIdentifier": "Microsoft.Teams"
 				},
 				{
-					"PackageIdentifier": "Microsoft.AppInstaller"
-				},
-				{
 					"PackageIdentifier": "Microsoft.DevHome"
 				},
 				{
@@ -141,6 +138,9 @@
 				},
 				{
 					"PackageIdentifier": "Python.Python.3.10"
+				},
+				{
+					"PackageIdentifier": "Python.Python.3.12"
 				}
 			],
 			"SourceDetails": {

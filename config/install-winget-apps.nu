@@ -9,8 +9,15 @@
 
 
 # Importing apps from file
-def "main import" [] {
-    winget import -i winget-apps.json --accept-package-agreements --accept-source-agreements --verbose;
+def "main install-full" [] {
+    print "Installing All apps..."
+    winget import -i ./config/winget-apps.json --accept-package-agreements --accept-source-agreements --verbose;
+}
+
+# Installing minimum and essential apps
+def "main install-min" [] {
+    print "Installing minimum..."
+    winget import -i ./config/winget-apps-min.json --accept-package-agreements --accept-source-agreements --verbose;
 }
 
 # Upgrading installed packages
@@ -19,9 +26,7 @@ def "main upgrade" [] {
 }
 
 def main [] {
-    print "Importing packages...";
-    main import;
-    
+
     print "Upgrading packages...";
     main upgrade
     print "Finished!";
