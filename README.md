@@ -1,17 +1,9 @@
-# nushell-config
-My custom nushell configuration
+# Install nushell and dependencies
+My custom Nushell configuration across devices.
 
-Install `nushell` using `winget`
-```
-> winget install nushell
-```
-
-To install the `config.nu` run the following command:
-```nu
-> nu install-config.nu
-```
-
-To backup if any changes to `config.nu` run the following command:
-```nu
-> nu backup-config.nu
+## Windows11 Installation
+Install `Nushell` and `Windows Terminal` by running `install.ps1`
+```powershell
+# install.ps1
+PS > .\install.ps1
 ```
