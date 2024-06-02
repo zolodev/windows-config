@@ -22,12 +22,12 @@ def "main install-min" [] {
 
 # Upgrading installed packages
 def "main upgrade" [] {
+    print "Upgrading packages...";
     winget upgrade --all --include-unknown --verbose;
 }
 
 def main [] {
-
-    print "Upgrading packages...";
-    main upgrade
-    print "Finished!";
+    print "\n\tThis script can be runned with argument like <install-min> | <install-full> | <upgrade>\n";
+    print "\tUsage:"
+    print "\t\t$ nu install-winget-apps.nu upgrade\n"
 }

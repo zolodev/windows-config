@@ -30,3 +30,4 @@ nu ./config/WindowsTerminal.nu install
 # Installing ALL winget apps
 Write-Output "Installing ALL Winget Apps!"
 nu ./config/install-winget-apps.nu install-full
+nu ./config/install-winget-apps.nu upgrade

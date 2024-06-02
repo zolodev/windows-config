@@ -30,3 +30,4 @@ nu ./config/WindowsTerminal.nu install
 # Installing minimum winget apps
 Write-Output "Installing Minimum Winget Apps!"
 nu ./config/install-winget-apps.nu install-min
+nu ./config/install-winget-apps.nu upgrade
