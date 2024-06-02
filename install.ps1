@@ -12,6 +12,9 @@ winget install "Microsoft.WindowsTerminal"
 # Install Nushell
 winget install Nushell.Nushell
 
+# Sourcing in the PATH, to get the nushell to work
+$env:Path = [System.Environment]::GetEnvironmentVariable("Path", "Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path", "User")
+
 # Copy Nushell config file
 Write-Output "Copy Nushell config.nu!"
 nu ./config/install-config.nu 
