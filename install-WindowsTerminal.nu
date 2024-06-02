@@ -43,7 +43,7 @@ def "main install" [] {
 def main [] {
     print "\tUse either 'backup' or 'install' as an argument!"
     print "\tExample:"
-    print "\t> nu install-WindowsTerminal.nu backup"
-    print "\tOr:
-    print "\t> nu install-WindowsTerminal.nu install"
+    print "\t\u{25b6} nu install-WindowsTerminal.nu backup"
+    print "\tOr:"
+    print "\t\u{25b6} nu install-WindowsTerminal.nu install"
 }
