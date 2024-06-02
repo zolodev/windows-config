@@ -1,3 +1,3 @@
 #!/usr/bin/env nu
 
-winget export -o ./winget-apps.json
+winget export -o ./config/winget-apps.json
