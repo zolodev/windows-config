@@ -3,7 +3,6 @@
 $env.POWERLINE_COMMAND = 'oh-my-posh'
 $env.POSH_THEME = $"($env.LOCALAPPDATA)\\Programs\\oh-my-posh\\themes\\cobalt2.omp.json"
 
-#$env.POSH_THEME = "C:\\Users\\Zolo\\AppData\\Local\\Programs\\oh-my-posh\\themes\\robbyrussell.omp.json"
 $env.PROMPT_INDICATOR = ""
 $env.POSH_PID = (random uuid)
 $env.POSH_SHELL_VERSION = (version | get version)
