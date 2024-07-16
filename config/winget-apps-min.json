@@ -5,13 +5,7 @@
 		{
 			"Packages": [
 				{
-					"PackageIdentifier": "Bitwarden.Bitwarden"
-				},
-				{
-					"PackageIdentifier": "CoreyButler.NVMforWindows"
-				},
-				{
-					"PackageIdentifier": "7zip.7zip"
+					"PackageIdentifier": "FxSoundLLC.FxSound"
 				},
 				{
 					"PackageIdentifier": "MarkText.MarkText"
@@ -29,9 +23,6 @@
 					"PackageIdentifier": "Git.Git"
 				},
 				{
-					"PackageIdentifier": "Microsoft.Teams"
-				},
-				{
 					"PackageIdentifier": "Microsoft.WindowsTerminal"
 				},
 				{
@@ -44,19 +35,10 @@
 					"PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
 				},
 				{
-					"PackageIdentifier": "Oven-sh.Bun"
-				},
-				{
-					"PackageIdentifier": "Rustlang.Rustup"
-				},
-				{
 					"PackageIdentifier": "Spotify.Spotify"
 				},
 				{
 					"PackageIdentifier": "GnuWin32.Tree"
-				},
-				{
-					"PackageIdentifier": "Waterfox.Waterfox"
 				},
 				{
 					"PackageIdentifier": "jftuga.less"
@@ -69,21 +51,6 @@
 				},
 				{
 					"PackageIdentifier": "Nushell.Nushell"
-				},
-				{
-					"PackageIdentifier": "VSCodium.VSCodium"
-				},
-				{
-					"PackageIdentifier": "Python.Launcher"
-				},
-				{
-					"PackageIdentifier": "OpenJS.NodeJS.LTS"
-				},
-				{
-					"PackageIdentifier": "Python.Python.3.10"
-				},
-				{
-					"PackageIdentifier": "Python.Python.3.12"
 				}
 			],
 			"SourceDetails": {
