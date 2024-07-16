@@ -11,6 +11,9 @@
 					"PackageIdentifier": "CoreyButler.NVMforWindows"
 				},
 				{
+					"PackageIdentifier": "FxSoundLLC.FxSound"
+				},
+				{
 					"PackageIdentifier": "7zip.7zip"
 				},
 				{
