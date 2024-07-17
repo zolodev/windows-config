@@ -64,7 +64,10 @@
 			"Packages": [
 				{
 					"PackageIdentifier": "9MW6QQ8J0V6T"
-				}
+				},
+				{
+					"PackageIdentifier" : "9N0866FS04W8"
+				},
 			],
 			"SourceDetails": {
 				"Argument": "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
