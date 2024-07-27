@@ -51,6 +51,9 @@
 				},
 				{
 					"PackageIdentifier": "Nushell.Nushell"
+				},
+				{
+					"PackageIdentifier" : "WinDirStat.WinDirStat"
 				}
 			],
 			"SourceDetails": {
