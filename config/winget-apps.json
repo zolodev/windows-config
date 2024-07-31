@@ -147,6 +147,9 @@
 				},
 				{
 					"PackageIdentifier" : "WinDirStat.WinDirStat"
+				},
+				{
+					"PackageIdentifier" : "WiresharkFoundation.Wireshark"
 				}
 			],
 			"SourceDetails": {
