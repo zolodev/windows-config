@@ -1,5 +1,6 @@
 # Install nushell and dependencies
 My custom Nushell configuration across devices.
+> Last updated: 2024-08-05
 
 ## Windows11 Installation
 ### Minimum installation
