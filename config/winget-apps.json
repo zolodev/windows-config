@@ -26,6 +26,9 @@
 					"PackageIdentifier": "Audacity.Audacity"
 				},
 				{
+					"PackageIdentifier" : "Helm.Helm"
+				},
+				{
 					"PackageIdentifier": "Brave.Brave"
 				},
 				{
@@ -66,6 +69,9 @@
 				},
 				{
 					"PackageIdentifier": "Insecure.Nmap"
+				},
+				{
+					"PackageIdentifier" : "DigiDNA.iMazing"
 				},
 				{
 					"PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
