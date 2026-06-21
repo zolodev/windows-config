@@ -8,7 +8,7 @@ For laptops or limited computers there is a minimum base installation.
 Install `Nushell` and `Windows Terminal` by running `install-minimum.ps1`
 ```powershell
 # install-minimum.ps1
-PS > .\install-minimum.ps1
+PS > powershell -ExecutionPolicy Bypass -File .\install-minimum.ps1
 ```
 ### Full installation
 For more powerfull computers it is recommended to install the full set of tools.
