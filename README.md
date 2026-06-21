@@ -15,7 +15,7 @@ For more powerfull computers it is recommended to install the full set of tools.
 Install `Nushell` and `Windows Terminal` by running `install.ps1`
 ```powershell
 # install.ps1
-PS > .\install.ps1
+PS > powershell -ExecutionPolicy Bypass -File .\install.ps1
 ```
 ## Font used
 * Hack Nerd Font
