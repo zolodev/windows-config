@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-05-17T10:12:35.675-00:00",
+	"CreationDate" : "2026-06-21T20:51:40.540-00:00",
 	"Sources" : 
 	[
 		{
@@ -19,16 +19,16 @@
 					"PackageIdentifier" : "Git.Git"
 				},
 				{
-					"PackageIdentifier" : "Anaconda.Miniconda3"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.OneDrive"
+					"PackageIdentifier" : "Mozilla.Firefox"
 				},
 				{
 					"PackageIdentifier" : "Proton.ProtonVPN"
 				},
 				{
 					"PackageIdentifier" : "eTeks.SweetHome3D"
+				},
+				{
+					"PackageIdentifier" : "VideoLAN.VLC"
 				},
 				{
 					"PackageIdentifier" : "Wacom.WacomTabletDriver"
@@ -43,19 +43,13 @@
 					"PackageIdentifier" : "DigiDNA.iMazing"
 				},
 				{
-					"PackageIdentifier" : "StrawberryPerl.StrawberryPerl"
-				},
-				{
 					"PackageIdentifier" : "Archi.Archi"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
 				},
 				{
-					"PackageIdentifier" : "WireGuard.WireGuard"
-				},
-				{
-					"PackageIdentifier" : "Logitech.GHUB"
+					"PackageIdentifier" : "StrawberryPerl.StrawberryPerl"
 				},
 				{
 					"PackageIdentifier" : "Apple.Bonjour"
@@ -67,43 +61,34 @@
 					"PackageIdentifier" : "Google.GoogleDrive"
 				},
 				{
+					"PackageIdentifier" : "WinDirStat.WinDirStat"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.msmpi"
 				},
 				{
-					"PackageIdentifier" : "GoLang.Go"
-				},
-				{
-					"PackageIdentifier" : "Nushell.Nushell"
-				},
-				{
-					"PackageIdentifier" : "VideoLAN.VLC"
-				},
-				{
-					"PackageIdentifier" : "PlayStation.PlayStationAccessories"
-				},
-				{
-					"PackageIdentifier" : "Corsair.iCUE.5"
+					"PackageIdentifier" : "WireGuard.WireGuard"
 				},
 				{
 					"PackageIdentifier" : "Nvidia.PhysX"
 				},
 				{
-					"PackageIdentifier" : "PuTTY.PuTTY"
+					"PackageIdentifier" : "GoLang.Go"
 				},
 				{
 					"PackageIdentifier" : "Alacritty.Alacritty"
 				},
 				{
-					"PackageIdentifier" : "RealVNC.VNCViewer"
+					"PackageIdentifier" : "Microsoft.GameInput"
 				},
 				{
-					"PackageIdentifier" : "OpenJS.NodeJS.22"
+					"PackageIdentifier" : "Nushell.Nushell"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VisualStudio.2022.Community"
+					"PackageIdentifier" : "PuTTY.PuTTY"
 				},
 				{
-					"PackageIdentifier" : "Brave.Brave"
+					"PackageIdentifier" : "EpicGames.EpicGamesLauncher"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge"
@@ -127,31 +112,40 @@
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86"
+				},
+				{
+					"PackageIdentifier" : "Python.Launcher"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2005.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Framework.DeveloperPack.4.6"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x86"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.Runtime.6"
 				},
 				{
-					"PackageIdentifier" : "Python.Launcher"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2005.x86"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2008.x86"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
 				},
 				{
-					"PackageIdentifier" : "EpicGames.EpicGamesLauncher"
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.8"
 				},
 				{
 					"PackageIdentifier" : "IdeaMK.STPViewer"
@@ -160,31 +154,19 @@
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.Runtime.8"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsSDK.10.0.22000"
 				},
 				{
-					"PackageIdentifier" : "ElectronicArts.EADesktop"
-				},
-				{
 					"PackageIdentifier" : "Bitwarden.Bitwarden"
 				},
 				{
-					"PackageIdentifier" : "Anysphere.Cursor"
+					"PackageIdentifier" : "MarkText.MarkText"
 				},
 				{
-					"PackageIdentifier" : "MarkText.MarkText"
+					"PackageIdentifier" : "Brave.Brave"
 				},
 				{
 					"PackageIdentifier" : "BurntSushi.ripgrep.MSVC"
@@ -199,10 +181,13 @@
 					"PackageIdentifier" : "MiKTeX.MiKTeX"
 				},
 				{
+					"PackageIdentifier" : "Anaconda.Miniconda3"
+				},
+				{
 					"PackageIdentifier" : "NewCloud.WakeOnLan"
 				},
 				{
-					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh"
+					"PackageIdentifier" : "Microsoft.OneDrive"
 				},
 				{
 					"PackageIdentifier" : "Oven-sh.Bun"
@@ -212,9 +197,6 @@
 				},
 				{
 					"PackageIdentifier" : "Spotify.Spotify"
-				},
-				{
-					"PackageIdentifier" : "WinDirStat.WinDirStat"
 				},
 				{
 					"PackageIdentifier" : "Balena.Etcher"
@@ -245,6 +227,9 @@
 				},
 				{
 					"PackageIdentifier" : "VSCodium.VSCodium"
+				},
+				{
+					"PackageIdentifier" : "Anysphere.Cursor"
 				},
 				{
 					"PackageIdentifier" : "Python.Python.3.10"
@@ -299,6 +284,12 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WSL"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Teams.Free"
+				},
+				{
+					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh"
 				}
 			],
 			"SourceDetails" : 
