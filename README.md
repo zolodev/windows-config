@@ -2,20 +2,23 @@
 My custom Nushell configuration across devices.
 > Last updated: 2024-08-05
 
+## Install Winget
+https://apps.microsoft.com/detail/9NBLGGH4NNS1?hl=en-us&gl=SE&ocid=pdpshare
+
 ## Windows11 Installation
 ### Minimum installation
 For laptops or limited computers there is a minimum base installation.
 Install `Nushell` and `Windows Terminal` by running `install-minimum.ps1`
 ```powershell
 # install-minimum.ps1
-PS > powershell -ExecutionPolicy Bypass -File .\install-minimum.ps1
+powershell -ExecutionPolicy Bypass -File .\install-minimum.ps1
 ```
 ### Full installation
 For more powerfull computers it is recommended to install the full set of tools.
 Install `Nushell` and `Windows Terminal` by running `install.ps1`
 ```powershell
 # install.ps1
-PS > powershell -ExecutionPolicy Bypass -File .\install.ps1
+powershell -ExecutionPolicy Bypass -File .\install.ps1
 ```
 ## Font used
 * Hack Nerd Font
