@@ -100,9 +100,9 @@
         {
           "PackageIdentifier": "Brave.Brave"
         },
-        // {
-        //   "PackageIdentifier": "BurntSushi.ripgrep.MSVC"
-        // },
+        {
+          "PackageIdentifier": "BurntSushi.ripgrep.MSVC"
+        },
         {
           "PackageIdentifier": "Discord.Discord"
         },
