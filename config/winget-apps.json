@@ -7,9 +7,9 @@
         // {
         // 	"PackageIdentifier" : "CoreyButler.NVMforWindows"
         // },
-        {
-          "PackageIdentifier": "CloudImperiumGames.RSILauncher"
-        },
+        // {
+        //   "PackageIdentifier": "CloudImperiumGames.RSILauncher"
+        // },
         {
           "PackageIdentifier": "Audacity.Audacity"
         },
@@ -34,15 +34,15 @@
         // {
         //   "PackageIdentifier": "Waterfox.Waterfox"
         // },
-        {
-          "PackageIdentifier": "LedgerHQ.LedgerLive"
-        },
-        {
-          "PackageIdentifier": "DigiDNA.iMazing"
-        },
-        {
-          "PackageIdentifier": "Archi.Archi"
-        },
+        // {
+        //   "PackageIdentifier": "LedgerHQ.LedgerLive"
+        // },
+        // {
+        //   "PackageIdentifier": "DigiDNA.iMazing"
+        // },
+        // {
+        //   "PackageIdentifier": "Archi.Archi"
+        // },
         // {
         //   "PackageIdentifier": "StrawberryPerl.StrawberryPerl"
         // },
@@ -88,9 +88,9 @@
         {
           "PackageIdentifier": "Yamaha.SteinbergUSBDriver"
         },
-        {
-          "PackageIdentifier": "Python.Launcher"
-        },
+        // {
+        //   "PackageIdentifier": "Python.Launcher"
+        // },
         {
           "PackageIdentifier": "Bitwarden.Bitwarden"
         },
@@ -100,9 +100,9 @@
         {
           "PackageIdentifier": "Brave.Brave"
         },
-        {
-          "PackageIdentifier": "BurntSushi.ripgrep.MSVC"
-        },
+        // {
+        //   "PackageIdentifier": "BurntSushi.ripgrep.MSVC"
+        // },
         {
           "PackageIdentifier": "Discord.Discord"
         },
@@ -121,9 +121,9 @@
         // {
         //   "PackageIdentifier": "Oven-sh.Bun"
         // },
-        {
-          "PackageIdentifier": "Rustlang.Rustup"
-        },
+        // {
+        //   "PackageIdentifier": "Rustlang.Rustup"
+        // },
         {
           "PackageIdentifier": "Spotify.Spotify"
         },
@@ -139,33 +139,33 @@
         {
           "PackageIdentifier": "Element.Element"
         },
-        {
-          "PackageIdentifier": "Insomnia.Insomnia"
-        },
-        {
-          "PackageIdentifier": "jftuga.less"
-        },
-        {
-          "PackageIdentifier": "jqlang.jq"
-        },
+        // {
+        //   "PackageIdentifier": "Insomnia.Insomnia"
+        // },
+        // {
+        //   "PackageIdentifier": "jftuga.less"
+        // },
+        // {
+        //   "PackageIdentifier": "jqlang.jq"
+        // },
         {
           "PackageIdentifier": "Roblox.Roblox"
         },
-        {
-          "PackageIdentifier": "sharkdp.bat"
-        },
+        // {
+        //   "PackageIdentifier": "sharkdp.bat"
+        // },
         {
           "PackageIdentifier": "VSCodium.VSCodium"
         },
-        {
-          "PackageIdentifier": "Python.Python.3.10"
-        },
+        // {
+        //   "PackageIdentifier": "Python.Python.3.10"
+        // },
         {
           "PackageIdentifier": "Canonical.Ubuntu"
         },
-        {
-          "PackageIdentifier": "Microsoft.Teams"
-        },
+        // {
+        //   "PackageIdentifier": "Microsoft.Teams"
+        // },
         {
           "PackageIdentifier": "Microsoft.WindowsTerminal"
         },

@@ -4,17 +4,20 @@
 	"Sources": [
 		{
 			"Packages": [
+
+        {
+          "PackageIdentifier": "Audacity.Audacity"
+        },
+        {
+          "PackageIdentifier": "Bitwarden.Bitwarden"
+        },        {
+          "PackageIdentifier": "VSCodium.VSCodium"
+        },
 				{
 					"PackageIdentifier": "FxSoundLLC.FxSound"
 				},
 				{
-					"PackageIdentifier": "MarkText.MarkText"
-				},
-				{
 					"PackageIdentifier": "Brave.Brave"
-				},
-				{
-					"PackageIdentifier": "BurntSushi.ripgrep.MSVC"
 				},
 				{
 					"PackageIdentifier": "Discord.Discord"
@@ -23,31 +26,13 @@
 					"PackageIdentifier": "Git.Git"
 				},
 				{
-					"PackageIdentifier": "Microsoft.WindowsTerminal"
-				},
-				{
 					"PackageIdentifier": "Mozilla.Firefox"
 				},
 				{
 					"PackageIdentifier": "Insecure.Nmap"
 				},
 				{
-					"PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
-				},
-				{
 					"PackageIdentifier": "Spotify.Spotify"
-				},
-				{
-					"PackageIdentifier": "GnuWin32.Tree"
-				},
-				{
-					"PackageIdentifier": "jftuga.less"
-				},
-				{
-					"PackageIdentifier": "jqlang.jq"
-				},
-				{
-					"PackageIdentifier": "sharkdp.bat"
 				},
 				{
 					"PackageIdentifier": "Nushell.Nushell"
